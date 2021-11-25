@@ -1,2 +1,2 @@
 # Sudoku-Solver-machine-learning
-App for solving sudoku after scanning an image containing a sudoku grid 
+This web application will let you show the solution of a sudoku if one exist using the camera.
