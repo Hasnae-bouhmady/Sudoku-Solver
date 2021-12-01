@@ -44,9 +44,10 @@
 <!--Built with-->
 ## Built With
 * [JavaScript](https://www.javascript.com/)
-* [Typescript](https://www.typescriptlang.org/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [React.js](https://reactjs.org/)
-* [Angular](https://angular.io/)
+* [HTML](https://devdocs.io/html/)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Python](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
