@@ -39,6 +39,8 @@
 
 <!--About the project-->
 ## About The Project
+* Backtracking Algorithm <br/>
+The sudoku is solved using a backtracking method  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!--Built with-->
