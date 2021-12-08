@@ -1,4 +1,6 @@
 <div align="center">
+  
+  
   <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
     <img src="Images/sudoku logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -9,6 +11,8 @@
     A web application that will let you show the solution of sudoku using the camera.
     <br />
   </p>
+  
+  
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -18,6 +22,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#diagrams">Diagrams</a></li>
+        <ul>
+          <li>Class Diagram</li>
+          <li>Diagram of deployement</li>
+        </ul>
+        <li><a href="#algorithm">Backtracking Algorithm</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -39,7 +49,11 @@
 
 <!--About the project-->
 ## About The Project
-* Backtracking Algorithm <br/>
+<!--Diagrams-->
+## Diagrams
+ 
+<!--Backtracking algorithm-->
+## Backtracking Algorithm 
 The sudoku is solved using a backtracking method  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
