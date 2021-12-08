@@ -55,8 +55,13 @@
 ## Diagrams
  <p>Class Diagram: </p>
  <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
-    <img src="Images/class diagram.png" alt="class diagram" width="400" height="400">
+    <img src="Images/class diagram.png" alt="class diagram" width="500" height="500">
   </a>
+  <p>Deployement Diagram: </p>
+  <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
+    <img src="Images/deployement diagram.png" alt="deployement diagram" width="500" height="500">
+  </a>
+  
  
  
 <!--Backtracking algorithm-->
