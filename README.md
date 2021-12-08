@@ -25,7 +25,9 @@
         <li><a href="#diagrams">Diagrams</a></li>
         <ul>
           <li>Class Diagram</li>
-          <li>Diagram of deployement</li>
+          <li>Deployement Diagram</li>
+          <li>Sequence Diagram</li>
+          <li>Use Case Diagram</li>
         </ul>
         <li><a href="#algorithm">Backtracking Algorithm</a></li>
         <li><a href="#built-with">Built With</a></li>
@@ -51,6 +53,11 @@
 ## About The Project
 <!--Diagrams-->
 ## Diagrams
+ <p>Class Diagram: </p>
+ <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
+    <img src="Images/class diagram.png" alt="class diagram" width="400" height="400">
+  </a>
+ 
  
 <!--Backtracking algorithm-->
 ## Backtracking Algorithm 
