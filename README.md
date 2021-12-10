@@ -23,12 +23,12 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#diagrams">Diagrams</a></li>
-        <ul>
-          <li>Class Diagram</li>
-          <li>Deployement Diagram</li>
-          <li>Sequence Diagram</li>
-          <li>Use Case Diagram</li>
-        </ul>
+            <ul>
+               <li>Use Case Diagram</li>
+               <li>Class Diagram</li>
+               <li>Sequence Diagram</li>
+               <li>Deployement Diagram</li>
+            </ul>
         <li><a href="#algorithm">Backtracking Algorithm</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -53,14 +53,29 @@
 ## About The Project
 <!--Diagrams-->
 ## Diagrams
+
+   <p>Use Case Diagram: </p>
+  <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
+    <img src="Images/use case diagram.png" alt="use case diagram" width="500" height="500">
+  </a>
+
  <p>Class Diagram: </p>
  <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
     <img src="Images/class diagram.png" alt="class diagram" width="500" height="500">
   </a>
+  
+  <p>Sequence Diagram: </p>
+ <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
+    <img src="Images/sequence diagram.png" alt="sequence diagram" width="500" height="500">
+  </a>
+  
   <p>Deployement Diagram: </p>
   <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
     <img src="Images/deployement diagram.png" alt="deployement diagram" width="500" height="500">
   </a>
+  
+   
+  
   
  
  
