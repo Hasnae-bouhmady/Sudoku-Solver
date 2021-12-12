@@ -86,13 +86,21 @@ The sudoku is solved using a backtracking method
 
 <!--Built with-->
 ## Built With
-* [JavaScript](https://www.javascript.com/)
-* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-* [React.js](https://reactjs.org/)
-* [HTML](https://devdocs.io/html/)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Python](https://www.python.org/)
-
+<ul>
+  <li><strong>Frontend</strong></li>
+  <ul>
+    <!-- * [HTML](https://devdocs.io/html/)  -->
+    <li> CSS </li>
+    <li> HTML</li>
+    <li> React.js</li>
+    <li>JavaScript</li>
+  </ul>
+  <li><strong>Backend</strong></li>
+  <ul>
+    <li> Flask</li>
+    <li> Python</li>
+  </ul>
+</ul>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
