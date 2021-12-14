@@ -87,7 +87,7 @@ The sudoku is solved using a backtracking method
 <!--Built with-->
 ## Built With
 <ul>
-  <li><strong>Frontend</strong></li>
+  <li><strong>Front-end</strong></li>
   <ul>
     <!-- * [HTML](https://devdocs.io/html/)  -->
     <li> CSS </li>
@@ -95,7 +95,7 @@ The sudoku is solved using a backtracking method
     <li> React.js</li>
     <li>JavaScript</li>
   </ul>
-  <li><strong>Backend</strong></li>
+  <li><strong>Back-end</strong></li>
   <ul>
     <li> Flask</li>
     <li> Python</li>
