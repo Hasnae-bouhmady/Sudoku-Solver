@@ -66,7 +66,10 @@
   
   <p>Sequence Diagram: </p>
  <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
-    <img src="Images/Sequence Diagram 1.png" alt="sequence diagram" width="500" height="500">
+    <img src="Images/Sequence Diagram 1.png" alt="sequence diagram1" width="500" height="500">
+  </a>
+   <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
+    <img src="Images/Sequence Diagram 2.png" alt="sequence diagram2" width="500" height="500">
   </a>
   
   <p>Deployement Diagram: </p>
