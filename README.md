@@ -22,7 +22,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#diagrams">Diagrams</a></li>
+        <li><a href="#diagrams">UML Diagrams</a></li>
             <ul>
                <li>Use Case Diagram</li>
                <li>Class Diagram</li>
@@ -40,19 +40,19 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <!--<li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>-->
   </ol>
 </details>
 
 <!--About the project-->
 ## About The Project
 <!--Diagrams-->
-## Diagrams
+## UML Diagrams
 
    <p>Use Case Diagram: </p>
   <a href="https://github.com/Hasnae-bouhmady/Sudoku-Solver-using-AI-machine-learning">
