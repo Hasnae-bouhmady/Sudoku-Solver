@@ -84,7 +84,8 @@
  
 <!--Backtracking algorithm-->
 ## Backtracking Algorithm 
-The sudoku is solved using a backtracking method  
+
+The backtracking algorithm is a recursive algorithm that attempts to solve a given problem by testing all possible paths towards a solution until a solution is found. Each time a path is tested, if a solution is not found, the algorithm backtracks to test another possible path and so on till a solution is found or all paths have been tested.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!--Built with-->
