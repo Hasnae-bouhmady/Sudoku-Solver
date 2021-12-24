@@ -7,9 +7,9 @@
 
   <h3 align="center">Sudoku Solver</h3>
 
-  <p align="center">
+ <!-- <p align="center">
     A web application that will let you show the solution of sudoku after uploading an image.
-    <br />
+    <br />-->
   </p>
   
   
