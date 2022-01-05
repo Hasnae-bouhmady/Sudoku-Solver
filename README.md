@@ -51,7 +51,7 @@
 
 <!--About the project-->
 ## About The Project
-This web application can solve sudokus inserted either by hand or by scanning a photo. It will let you modify the scanned sudoku and will show the solution if one exist.Be sure to use good photos !!
+This web application can solve sudokus inserted either by hand or by scanning a photo. It will let you modify the scanned sudoku and will show the solution if one exist.Be sure to upload good photos !!
 
 <!--Diagrams-->
 ## UML Diagrams
