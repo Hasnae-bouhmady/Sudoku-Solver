@@ -91,22 +91,27 @@ The backtracking algorithm is a recursive algorithm that attempts to solve a giv
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!--Built with-->
-## Built With
-<ul>
-  <li><strong>Front-end</strong></li>
+## Technologies used
+
+  
   <ul>
     <!-- * [HTML](https://devdocs.io/html/)  -->
     <li> CSS </li>
     <li> HTML</li>
     <li> React.js</li>
-    <li>JavaScript</li>
-  </ul>
-  <li><strong>Back-end</strong></li>
-  <ul>
+   <li>JavaScript</li>
     <li> Flask</li>
     <li> Python</li>
+  <li>OpenCV<small>Open Computer Vision</small></li>
+  <li>OCR <small>Optical Character Recognition</small> </li>
+  <li>Tensorflow</li>
+  
   </ul>
-</ul>
+  
+  
+ 
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
