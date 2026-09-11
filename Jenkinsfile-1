@@ -3,6 +3,9 @@ pipeline {
   options {
     buildDiscarder(logRotator(numToKeepStr: '5'))
   }
+environment {
+    scannerHome = tool 'SonarScanner'
+  }
   stages {
     stage('Scan') {
       steps {
