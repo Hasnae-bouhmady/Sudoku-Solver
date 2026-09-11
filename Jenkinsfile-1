@@ -10,7 +10,7 @@ environment {
     stage('Scan') {
       steps {
         withSonarQubeEnv(installationName: 'sq1') { 
-          sh 'sonar-scanner'
+          sh  "${scannerHome}/bin/sonar-scanner"
         }
       }
     }
